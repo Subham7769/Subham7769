@@ -27,10 +27,14 @@ Crafting seamless web experiences | Bridging Frontend & Backend
 📌 Currently working on Loan Origination System & Loan Management System
 
 ### 🌟 My Current Focus  
-- 🔭 **Project**: Loan Origination + Management System  
-- 🌱 **Learning**: System Design & Backend Scaling  
-- 📂 **Portfolio**: [View My Work](https://my-protfolio-react-three.vercel.app/)  
-- 📄 **Resume**: [View Here](https://www.canva.com/design/DAGAqykq824/3FrTByDu__OCsiRq6t0RSw/view?utm_content=DAGAqykq824&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h61a1084774)  
+- 🔭 **Project**: Loan Origination + Management System
+  
+- 🌱 **Learning**: System Design & Backend Scaling
+  
+- 📂 **Portfolio**: [View My Work](https://my-protfolio-react-three.vercel.app/)
+  
+- 📄 **Resume**: [View Here](https://www.canva.com/design/DAGAqykq824/3FrTByDu__OCsiRq6t0RSw/view?utm_content=DAGAqykq824&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h61a1084774)
+  
 - 📬 **Contact**: shubham.rapariya2@gmail.com  
 
 
