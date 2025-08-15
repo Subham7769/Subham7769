@@ -14,13 +14,15 @@
 
 ---
 
-### 🧑‍💻 About Me  
-💡 Skilled in **HTML, CSS, JavaScript, Bootstrap, React, Tailwind, Redux, Java, Node.js, Express, MongoDB**  
-📚 Exploring **Data Structures, System Design** & Full Stack Development  
-🔥 Coding is my **love language** – I aim to build experiences that **captivate & innovate**  
-📌 Currently working on **Loan Origination System & Loan Management System**  
+🧑‍💻 About Me
 
----
+💡 Skilled in HTML, CSS, JavaScript, Bootstrap, React, Tailwind, Redux, Java, Node.js, Express, MongoDB
+
+📚 Exploring Data Structures, System Design & Full Stack Development
+
+🔥 Coding is my love language – I aim to build experiences that captivate & innovate
+
+📌 Currently working on Loan Origination System & Loan Management System
 
 ### 🌟 My Current Focus  
 - 🔭 **Project**: Loan Origination + Management System  
