@@ -2,7 +2,9 @@
 
 <h3 align="center">
 🚀 Passionate Aspiring Full MERN Stack Developer  
-🌐💻 Crafting seamless web experiences | Bridging Frontend & Backend  
+🌐💻 
+<br/>
+Crafting seamless web experiences | Bridging Frontend & Backend  
 </h3>
 
 <p align="center">
