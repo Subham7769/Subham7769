@@ -1,14 +1,78 @@
-# 💫 About Me:
-<br>👋 Hey there, I'm Subham Jain, 🚀 a passionate aspiring full stack developer on an exciting coding adventure! 🌐💻<br><br>💡 I've got the basics covered with HTML, CSS, Bootstrap, and JavaScript, crafting stunning frontend projects that bring ideas to life. 🌈<br><br>🧠 While my knowledge of data structures is budding, I'm eager to delve deeper into the world of full stack development. 📚<br><br>🔥 Coding is my love language, and I'm committed to creating exceptional web experiences that captivate and innovate. 💖<br><br>💪 Join me on my journey as I bridge the gap between frontend and backend technologies, shaping the digital future one project at a time! 🌟
+<h1 align="center">👋 Hi, I'm Subham Jain</h1>
 
+<h3 align="center">
+🚀 Passionate Aspiring Full MERN Stack Developer  
+🌐💻 Crafting seamless web experiences | Bridging Frontend & Backend  
+</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ shubhamjain7769) 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=subham7769&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />  
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=subham7769&theme=algolia&margin-w=5&margin-h=5" alt="trophies" />
+</a>
+</p>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%231572B6.svg?style=for-the-badge&logo=react&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Subham7769&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Subham7769&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧑‍💻 About Me  
+💡 Skilled in **HTML, CSS, JavaScript, Bootstrap, React, Tailwind, Redux, Java, Node.js, Express, MongoDB**  
+📚 Exploring **Data Structures, System Design** & Full Stack Development  
+🔥 Coding is my **love language** – I aim to build experiences that **captivate & innovate**  
+📌 Currently working on **Loan Origination System & Loan Management System**  
+
+---
+
+### 🌟 My Current Focus  
+- 🔭 **Project**: Loan Origination + Management System  
+- 🌱 **Learning**: System Design & Backend Scaling  
+- 📂 **Portfolio**: [View My Work](https://my-protfolio-react-three.vercel.app/)  
+- 📄 **Resume**: [View Here](https://www.canva.com/design/DAGAqykq824/3FrTByDu__OCsiRq6t0RSw/view?utm_content=DAGAqykq824&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h61a1084774)  
+- 📬 **Contact**: shubham.rapariya2@gmail.com  
+
+---
+
+### 🤝 Connect With Me  
+<p align="left">
+<a href="https://linkedin.com/in/shubhamjain7769" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://instagram.com/shubhamrapariya" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools  
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/>  
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>  
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>  
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>  
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>  
+</p>
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=subham7769&show_icons=true&theme=tokyonight" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subham7769&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=subham7769&theme=tokyonight" />
+</p>
+
+---
+
+⭐ **"Shaping the digital future one project at a time!"**  
