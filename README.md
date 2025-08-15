@@ -1,18 +1,9 @@
 <h1 align="center">👋 Hi, I'm Subham Jain</h1>
 
 <h3 align="center" style="line-height:1.8;">
-🚀 <strong>Passionate Aspiring Full MERN Stack Developer</strong>  
-🌐💻  
-<br/>
-✨ Crafting seamless web experiences  
-  
-🔗 Bridging Frontend & Backend 
-
-🏦 Product-Based Fintech Enthusiast  
-
-<br/>
-💼 Lead Frontend Developer @ Dubai Based Fintech Startup  
-🤖 Building <strong>Agetic AI</strong> — the first-ever AI LLM Chat Engine in Fintech
+🚀 <strong>Passionate MERN Stack Developer</strong> | Lead Frontend @ Dubai-based Fintech Startup  
+🌐💻 Crafting seamless web experiences & bridging frontend with backend  
+🏦 Fintech Enthusiast | 🤖 Building <strong>Agetic AI</strong> — the first AI LLM Chat Engine in Fintech
 </h3>
 
 <p align="center">
