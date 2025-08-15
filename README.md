@@ -49,7 +49,6 @@ Crafting seamless web experiences | Bridging Frontend & Backend
 </a>
 </p>
 
----
 
 ### 🛠️ Languages & Tools  
 <p align="center">
@@ -69,7 +68,7 @@ Crafting seamless web experiences | Bridging Frontend & Backend
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>  
 </p>
 
----
+
 
 ### 📊 GitHub Stats  
 <p align="center">
@@ -81,6 +80,6 @@ Crafting seamless web experiences | Bridging Frontend & Backend
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=subham7769&theme=tokyonight" />
 </p>
 
----
+
 
 ⭐ **"Shaping the digital future one project at a time!"**  
