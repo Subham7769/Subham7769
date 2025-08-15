@@ -10,7 +10,7 @@ Crafting seamless web experiences | Bridging Frontend & Backend
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=subham7769&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />  
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=subham7769&theme=algolia&margin-w=5&margin-h=5" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=subham7769&theme=flat&margin-w=5&margin-h=5" alt="trophies" />
 </a>
 </p>
 
